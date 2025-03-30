@@ -4,7 +4,7 @@ Submitted by: **Arunavo Chowdhury**
 
 This web app: **simple app that makes calls to a catapi to generate cats based on the attributes listed**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
