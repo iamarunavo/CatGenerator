@@ -47,7 +47,8 @@ Here's a walkthrough of implemented user stories:
 <img src="https://i.imgur.com/yuZ7wN8.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ... 
+screen to gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -56,10 +57,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+Formatting the components, took a while.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Arunavo Chowdhury]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
